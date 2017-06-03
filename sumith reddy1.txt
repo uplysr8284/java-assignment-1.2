@@ -1,0 +1,17 @@
+Difference between JDK,JRE and JVM
+
+JDK : Java Development Kit
+	jdk is a platform independent .
+	Using jdk we can write the programs and compile the programs .
+	It also consits of jre to execute the programs .
+	To develop java programs jdk consist of development tools .
+
+JRE : Java Runtime Environment
+	To run a program jre provides an environment .
+	In this jre it consists of libraries and jvm.
+
+JVM : Java Virtual Machine 
+	To execute a program in any platform jvm is needed.
+	Jvm is a platform dependent .
+	It converts the programming language code to machine language code .
+	It uses libraries from jre to run the program .	 
